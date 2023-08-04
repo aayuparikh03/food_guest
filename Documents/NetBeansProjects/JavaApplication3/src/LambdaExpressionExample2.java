@@ -16,4 +16,4 @@ public class LambdaExpressionExample2 {
 }  
 
 
-C:\Users\Lenovo\Documents\NetBeansProjects\JavaApplication3\src\LambdaExpressionExample2.java
+
